@@ -10,7 +10,7 @@ const statsData = [
 const Stats = () => {
     return (
         <>
-            <h2 className='text-center roboto-black text-4xl my-12'>Our stats</h2>
+            <h2 className='text-center roboto-black text-3xl md:text-4xl my-8 md:my-12'>Our stats</h2>
             <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
                 <div className="grid grid-cols-2 gap-8 md:grid-cols-3">
                     {statsData.map((stat, index) => (
