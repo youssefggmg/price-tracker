@@ -11,13 +11,17 @@
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "@material-tailwind/react": "^2.1.9",
+    "@prisma/client": "^5.17.0",
     "dotenv": "^16.4.5",
     "flowbite": "^2.4.1",
     "flowbite-react": "^0.10.1",
     "next": "14.2.5",
+    "next-auth": "^4.24.7",
     "prisma": "^5.17.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-hook-form": "^7.52.1",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20",
